@@ -4,7 +4,7 @@
 
 ### [Smart Contract](https://github.com/ajith-m-doodlebug/ERC721-Smartcontract)
 
-### [Website]([https://github.com/ajith-m-doodlebug/ERC721-Smartcontract](https://github.com/ajith-m-doodlebug/ERC721-Minting-Site)
+### [Website](https://github.com/ajith-m-doodlebug/ERC721-Minting-Site)
 
 ## Etherscan (Rinkeby Network):
 
